@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu quero trabalhar com back-end
-- 🌱 Estudabdo java e ingles
+- 🌱 Estudando java e ingles
 - 📫 contate-me no Email: gabrieldacostafreire81@gmail.com 
 - 😄 Pronouns: ele/dele
 
